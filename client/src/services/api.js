@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL ='https://novasphere-tech-website-backend.onrender.com/api';
 
 const request = async (url, options = {}) => {
   const token = localStorage.getItem('novasphere_token');
