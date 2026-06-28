@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "57f043e8-dada-41c1-bb29-b78e2676444d",
+    "createdAt": "2026-06-27T09:27:51.254Z",
+    "updatedAt": "2026-06-27T09:27:51.254Z",
+    "name": "Robert Stark",
+    "email": "robert@starkindustries.com",
+    "subject": "AI Model Consultation Request",
+    "message": "Hello, we are interested in booking a workshop for AI pipeline integrations. Please let us know your availability.",
+    "isRead": false
+  },
+  {
+    "_id": "c759f1dc-0114-4051-b113-d43c95b3a0b8",
+    "createdAt": "2026-06-27T09:27:51.257Z",
+    "updatedAt": "2026-06-27T09:27:51.257Z",
+    "name": "Clara Oswald",
+    "email": "clara@tardis.org",
+    "subject": "Digital Marketing Support Services",
+    "message": "Hello NovaSphere! We would love to collaborate on a targeted search campaign for our London retail branches.",
+    "isRead": true
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "c01f4e1d-8b20-4810-945f-62c7c5878dbd",
+    "createdAt": "2026-06-27T09:27:51.237Z",
+    "updatedAt": "2026-06-27T09:27:51.237Z",
+    "title": "Senior React Developer",
+    "department": "Engineering",
+    "location": "Remote (US/Europe/Asia)",
+    "type": "Full-time",
+    "salary": "$120,000 - $150,000",
+    "description": "We are seeking a senior frontend engineer with a deep passion for pixel-perfect React.js systems, high performance rendering, and custom state systems.",
+    "requirements": [
+      "5+ years developing responsive React apps",
+      "Advanced knowledge of CSS3 and custom animation frameworks",
+      "Proficiency in Vite, Node, and REST API structures"
+    ],
+    "responsibilities": [
+      "Architect reusable frontend component libraries",
+      "Optimize web loading speeds to reach 95+ lighthouse scores",
+      "Collaborate closely with UI/UX designers to implement premium layouts"
+    ]
+  },
+  {
+    "_id": "eef35e8b-efb2-4021-973b-8c558b08aab2",
+    "createdAt": "2026-06-27T09:27:51.239Z",
+    "updatedAt": "2026-06-27T09:27:51.239Z",
+    "title": "Lead AI Engineer",
+    "department": "Engineering",
+    "location": "Remote (Worldwide)",
+    "type": "Full-time",
+    "salary": "$160,000 - $200,000",
+    "description": "Join our intelligence team to build and train custom LLMs, vector search layers, and predictive models for enterprise web systems.",
+    "requirements": [
+      "Mastery of Python, TensorFlow, and PyTorch",
+      "Experience fine-tuning models and constructing custom prompt trees",
+      "Solid backend Express/FastAPI deployment knowledge"
+    ],
+    "responsibilities": [
+      "Create cognitive chat architectures and prediction models",
+      "Scale AI endpoints with high concurrent traffic requirements",
+      "Write clean documentation on computational pipeline nodes"
+    ]
+  },
+  {
+    "_id": "01a923e6-0ec2-4d3a-9fa2-ef52f9e6f559",
+    "createdAt": "2026-06-27T09:27:51.240Z",
+    "updatedAt": "2026-06-27T09:27:51.240Z",
+    "title": "Senior UI/UX Designer",
+    "department": "Design",
+    "location": "Hybrid (New York, NY)",
+    "type": "Full-time",
+    "salary": "$100,000 - $130,000",
+    "description": "We need a highly creative designer who can translate complex tech solutions into beautiful, minimalist, high-converting digital storefronts and admin dashboards.",
+    "requirements": [
+      "Expertise in Figma prototyping and design tokens",
+      "Portfolio demonstrating premium glassmorphic or dark mode web work",
+      "Strong grasp of web accessibility and CSS layout architectures"
+    ],
+    "responsibilities": [
+      "Draft user flows, wireframes, and pixel-perfect high-fidelity mockups",
+      "Build design systems for frontend developer handoff",
+      "Conduct user tests on prototypes to refine interactive hierarchies"
+    ]
+  }
+]

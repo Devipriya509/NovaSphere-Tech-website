@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "52573bbf-f57b-4518-bcd0-cdcfe521e326",
+    "createdAt": "2026-06-27T09:27:51.191Z",
+    "updatedAt": "2026-06-27T09:27:51.191Z",
+    "title": "Website Development",
+    "slug": "website-development",
+    "description": "Stunning, high-performance websites custom built with modern technologies to grow your brand online.",
+    "features": [
+      "Pristine Responsive Design",
+      "Search Engine Optimization (SEO)",
+      "Vibrant Micro-Animations",
+      "High Speed Optimization",
+      "Interactive Admin CMS Panel"
+    ],
+    "technologies": [
+      "React.js",
+      "Vite",
+      "HTML5/CSS3",
+      "Node.js",
+      "Framer Motion"
+    ],
+    "pricing": "Starting at $2,499",
+    "icon": "Globe"
+  },
+  {
+    "_id": "0d2aff91-6ba1-4a56-9e92-54f518c9ad55",
+    "createdAt": "2026-06-27T09:27:51.193Z",
+    "updatedAt": "2026-06-27T09:27:51.193Z",
+    "title": "Mobile App Development",
+    "slug": "mobile-app-development",
+    "description": "Fully responsive, native and cross-platform mobile apps for iOS and Android built for seamless engagement.",
+    "features": [
+      "Cross-Platform Capability",
+      "Offline Database Support",
+      "Push Notifications Integration",
+      "Biometric Security Access",
+      "Smooth Gesture Navigation"
+    ],
+    "technologies": [
+      "React Native",
+      "Expo",
+      "Node.js",
+      "Redux Toolkit",
+      "Firebase"
+    ],
+    "pricing": "Starting at $5,999",
+    "icon": "Smartphone"
+  },
+  {
+    "_id": "26c180b4-0abb-456d-af21-385690031d8c",
+    "createdAt": "2026-06-27T09:27:51.196Z",
+    "updatedAt": "2026-06-27T09:27:51.196Z",
+    "title": "AI Solutions",
+    "slug": "ai-solutions",
+    "description": "Unlock enterprise intelligence with custom machine learning models, NLP assistants, and data predictions.",
+    "features": [
+      "Automated LLM Fine-Tuning",
+      "Predictive Analysis Engines",
+      "Cognitive Customer Support Bots",
+      "Smart Recommendation Systems",
+      "Voice/Speech Translation API"
+    ],
+    "technologies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "OpenAI API",
+      "Hugging Face"
+    ],
+    "pricing": "Starting at $9,999",
+    "icon": "Cpu"
+  },
+  {
+    "_id": "c44ea3b7-cc7c-4878-a143-a8f3dc87fdc6",
+    "createdAt": "2026-06-27T09:27:51.199Z",
+    "updatedAt": "2026-06-27T09:27:51.199Z",
+    "title": "Cloud Computing",
+    "slug": "cloud-computing",
+    "description": "Migrate, manage, and scale your systems securely with modern serverless cloud infrastructures.",
+    "features": [
+      "Zero-Downtime Migration",
+      "Auto-Scaling Architecture",
+      "Multi-Cloud Management",
+      "Serverless Functions Deploy",
+      "Continuous Health Monitoring"
+    ],
+    "technologies": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud (GCP)",
+      "Docker",
+      "Kubernetes"
+    ],
+    "pricing": "Starting at $4,499",
+    "icon": "Cloud"
+  },
+  {
+    "_id": "91e96e14-dc52-4eb0-9e78-6c84c2809a83",
+    "createdAt": "2026-06-27T09:27:51.202Z",
+    "updatedAt": "2026-06-27T09:27:51.202Z",
+    "title": "Cybersecurity Services",
+    "slug": "cybersecurity",
+    "description": "Protect your valuable digital assets and customer data with robust penetration testing and monitoring.",
+    "features": [
+      "End-to-End Encryption Audits",
+      "Active Pentesting & Reporting",
+      "24/7 Security Operations (SOC)",
+      "Identity & Access Control",
+      "Compliance Guarantee (GDPR/HIPAA)"
+    ],
+    "technologies": [
+      "OWASP ZAP",
+      "Wireshark",
+      "Kali Linux",
+      "Auth0",
+      "Cloudflare WAF"
+    ],
+    "pricing": "Starting at $3,999",
+    "icon": "Shield"
+  },
+  {
+    "_id": "0d2b50c1-54a5-4fe9-a5c5-a0c2b5eff481",
+    "createdAt": "2026-06-27T09:27:51.206Z",
+    "updatedAt": "2026-06-27T09:27:51.206Z",
+    "title": "Digital Marketing",
+    "slug": "digital-marketing",
+    "description": "Maximize conversions and business reach with data-driven social, search, and content campaigns.",
+    "features": [
+      "Targeted Lead Generation",
+      "PPC Ad Campaign Management",
+      "High-Converting Copywriting",
+      "Brand Strategy Orchestration",
+      "Analytical Conversion Reports"
+    ],
+    "technologies": [
+      "Google Ads",
+      "Meta Business Suite",
+      "Google Analytics 4",
+      "Semrush",
+      "Mailchimp"
+    ],
+    "pricing": "Starting at $1,499",
+    "icon": "BarChart"
+  },
+  {
+    "_id": "98dfb6a9-56c1-4fa1-b207-4e0ac1a14e3d",
+    "createdAt": "2026-06-27T09:27:51.210Z",
+    "updatedAt": "2026-06-27T09:27:51.210Z",
+    "title": "SEO Optimization",
+    "slug": "seo-optimization",
+    "description": "Rank higher on search engines to drive consistent, high-quality organic traffic to your website.",
+    "features": [
+      "Comprehensive Keyword Research",
+      "On-Page Content Structuring",
+      "High-Authority Backlink Acquisition",
+      "Technical SEO Audit & Fixing",
+      "Local Map SEO Domination"
+    ],
+    "technologies": [
+      "Google Search Console",
+      "Ahrefs",
+      "Screaming Frog",
+      "Yoast SEO",
+      "Lighthouse"
+    ],
+    "pricing": "Starting at $999",
+    "icon": "Search"
+  },
+  {
+    "_id": "7e861c8e-3b6c-4640-961b-d60203e63a27",
+    "createdAt": "2026-06-27T09:27:51.215Z",
+    "updatedAt": "2026-06-27T09:27:51.215Z",
+    "title": "UI UX Design",
+    "slug": "ui-ux-design",
+    "description": "Immersive and intuitive user interfaces backed by research, wireframing, and gorgeous interactive prototypes.",
+    "features": [
+      "User Persona & Journey Mapping",
+      "High-Fidelity Wireframes",
+      "Interactive Clickable Prototypes",
+      "Responsive Layout Spec Sheet",
+      "Usability Testing & Analytics"
+    ],
+    "technologies": [
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "Framer",
+      "Illustrator"
+    ],
+    "pricing": "Starting at $1,999",
+    "icon": "Layers"
+  },
+  {
+    "_id": "90182f79-6535-4e45-bc2a-07a5916ebd6a",
+    "createdAt": "2026-06-27T09:27:51.218Z",
+    "updatedAt": "2026-06-27T09:27:51.218Z",
+    "title": "Software Development",
+    "slug": "software-development",
+    "description": "Scalable backends, enterprise ERP software, and custom business management tooling.",
+    "features": [
+      "Secure Microservice API Design",
+      "Robust SQL/NoSQL Database Setup",
+      "Legacy Code Migration",
+      "DevOps Automations CI/CD",
+      "Real-Time WebSockets Integration"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "Spring Boot",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "pricing": "Starting at $7,499",
+    "icon": "Code"
+  },
+  {
+    "_id": "4581683d-d05c-4d58-832f-cde5dfaae428",
+    "createdAt": "2026-06-27T09:27:51.220Z",
+    "updatedAt": "2026-06-27T09:27:51.220Z",
+    "title": "E-Commerce Solutions",
+    "slug": "e-commerce-solutions",
+    "description": "Dynamic digital storefronts designed for maximum conversion, secure checkout, and easy inventory control.",
+    "features": [
+      "Safe Stripe/PayPal Integration",
+      "Dynamic Inventory Management",
+      "Discount Coupon Engine",
+      "Detailed Customer Analytics",
+      "Abandoned Cart Automation"
+    ],
+    "technologies": [
+      "Next.js",
+      "Shopify API",
+      "Stripe",
+      "Node.js",
+      "MongoDB"
+    ],
+    "pricing": "Starting at $3,499",
+    "icon": "ShoppingBag"
+  }
+]

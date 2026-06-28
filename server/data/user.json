@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "98f2c916-21fe-4180-80c5-1e93d669a072",
+    "createdAt": "2026-06-27T09:27:51.185Z",
+    "updatedAt": "2026-06-27T09:27:51.187Z",
+    "name": "NovaSphere Admin",
+    "email": "admin@novasphere.com",
+    "password": "$2a$10$19OdZVdRtsbM8/WCjHVTP.kxIFYSuqOg1MryRYZMp.vXezziuXgBu",
+    "role": "admin",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Admin",
+    "notifications": []
+  },
+  {
+    "_id": "56183436-9d89-40ee-81b3-74ee81e80ce5",
+    "createdAt": "2026-06-27T09:27:51.189Z",
+    "updatedAt": "2026-06-27T09:27:51.189Z",
+    "name": "Jane Doe",
+    "email": "user@novasphere.com",
+    "password": "$2a$10$19OdZVdRtsbM8/WCjHVTP.CoBNmBvMHZzq1M30cgvDHIUQArhr2yS",
+    "role": "user",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jane",
+    "notifications": [
+      {
+        "id": "notif-1",
+        "title": "Profile Created",
+        "message": "Welcome to NovaSphere! Your profile has been created successfully.",
+        "read": false,
+        "createdAt": "2026-06-27T09:27:51.189Z"
+      }
+    ]
+  },
+  {
+    "_id": "2458cbb8-8abc-499c-8d87-51acc06d4696",
+    "createdAt": "2026-06-27T10:06:20.118Z",
+    "updatedAt": "2026-06-27T10:06:20.118Z",
+    "name": "Devipriya R",
+    "email": "rameshdevipriya69@gmail.com",
+    "password": "$2a$10$/ezKGTmzdIzTzBwHGIYALO17SP9eRjDibu6.xWCZttQhRHtiGC4xm",
+    "role": "user",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Devipriya%20R",
+    "notifications": [
+      {
+        "id": "welcome",
+        "title": "Welcome to NovaSphere!",
+        "message": "Thank you for creating an account with NovaSphere Technologies. Check out our services and book an appointment today.",
+        "read": false,
+        "createdAt": "2026-06-27T10:06:20.117Z"
+      }
+    ]
+  }
+]

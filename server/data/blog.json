@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "74158122-e62c-4619-a3fa-8a4b7d49cb48",
+    "createdAt": "2026-06-27T09:27:51.233Z",
+    "updatedAt": "2026-06-27T09:27:51.233Z",
+    "title": "The Future of AI in Enterprise Software Development",
+    "slug": "future-of-ai-enterprise-software",
+    "content": "Artificial Intelligence is shifting from simple assistants to core structural elements of software architecture. In this article, we outline how large language models (LLMs) and cognitive analytics engines are automating traditional coding patterns, improving build times, and redefining project structures. Companies implementing AI integrations early are seeing up to 40% improvements in developer productivity and significant drops in testing cycles.",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "category": "AI Solutions",
+    "tags": [
+      "AI",
+      "Tech Trends",
+      "SaaS",
+      "Coding"
+    ],
+    "readTime": "6 mins",
+    "author": "Dr. Marcus Vance, Chief Scientist",
+    "views": 124,
+    "comments": [
+      {
+        "authorName": "Alex Carter",
+        "content": "This was incredibly insightful. We are looking into LLM micro-services right now.",
+        "createdAt": "2026-06-27T09:27:51.233Z"
+      }
+    ]
+  },
+  {
+    "_id": "f353122d-ce22-4a33-a957-f56ae32bcc92",
+    "createdAt": "2026-06-27T09:27:51.234Z",
+    "updatedAt": "2026-06-27T09:27:51.234Z",
+    "title": "Cybersecurity Best Practices for Scaling Startups",
+    "slug": "cybersecurity-best-practices-startups",
+    "content": "Startups often ignore security in favor of shipping speed, leaving them vulnerable to simple exploits. Data compliance models like GDPR and HIPAA require robust access policies from day one. We break down the vital security measures you should deploy immediately: end-to-end token encryption, multi-factor biometric authentication, Web Application Firewalls (WAF), and automated penetration scanners.",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+    "category": "Cybersecurity",
+    "tags": [
+      "Security",
+      "Startups",
+      "Compliance",
+      "AWS"
+    ],
+    "readTime": "8 mins",
+    "author": "Sarah Jenkins, Chief Security Officer",
+    "views": 98,
+    "comments": []
+  },
+  {
+    "_id": "ad352dd9-a7c3-4c93-9b77-db6c4549c767",
+    "createdAt": "2026-06-27T09:27:51.235Z",
+    "updatedAt": "2026-06-27T09:27:51.235Z",
+    "title": "Mastering UI/UX: Design Principles that Drive Conversion",
+    "slug": "mastering-ui-ux-design-conversion",
+    "content": "A beautiful interface is useless if users can't figure out how to book a service. Modern UX design is centered around cognitive simplicity, accessibility guidelines, micro-interactions, and visual visual hierarchy. By applying custom glassmorphic cards, logical action buttons, and Outfit fonts, we notice massive gains in retention. Learn the step-by-step wireframing process our team uses to craft premium experiences.",
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?auto=format&fit=crop&w=800&q=80",
+    "category": "UI UX Design",
+    "tags": [
+      "UI/UX",
+      "Web Design",
+      "Figma",
+      "Framer Motion"
+    ],
+    "readTime": "5 mins",
+    "author": "David Chen, Lead Creative Director",
+    "views": 245,
+    "comments": []
+  }
+]

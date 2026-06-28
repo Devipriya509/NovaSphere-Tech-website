@@ -1,0 +1,96 @@
+[
+  {
+    "_id": "09b77402-9cda-4f72-b6bf-a989ed0fcde3",
+    "createdAt": "2026-06-27T09:27:51.224Z",
+    "updatedAt": "2026-06-27T09:27:51.224Z",
+    "title": "OmniBrain AI Analytics Platform",
+    "description": "A premium enterprise SaaS dashboard utilizing machine learning model projections to show real-time business health indices and revenue forecasting charts.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+    "category": "AI",
+    "technologies": [
+      "Python",
+      "TensorFlow",
+      "React.js",
+      "ChartJS",
+      "FastAPI"
+    ],
+    "client": "OmniGlobal Inc.",
+    "liveDemo": "https://example.com/demo/omnibrain",
+    "github": "https://github.com/example/omnibrain"
+  },
+  {
+    "_id": "b3dc1966-1211-476a-a674-0ffeb6c99282",
+    "createdAt": "2026-06-27T09:27:51.226Z",
+    "updatedAt": "2026-06-27T09:27:51.226Z",
+    "title": "Aegis Sentinel Cybersecurity Suite",
+    "description": "An advanced cloud network traffic analyzer utilizing threat detection databases and end-to-end encryption checking protocols.",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "category": "Branding",
+    "technologies": [
+      "Go",
+      "Wireshark SDK",
+      "React",
+      "Tailwind",
+      "Docker"
+    ],
+    "client": "Aegis Financial Corp",
+    "liveDemo": "https://example.com/demo/aegis",
+    "github": "https://github.com/example/aegis"
+  },
+  {
+    "_id": "8a07144f-9164-4ec5-b38b-0c7fd7f89ad4",
+    "createdAt": "2026-06-27T09:27:51.229Z",
+    "updatedAt": "2026-06-27T09:27:51.229Z",
+    "title": "PulseFit Workout Companion App",
+    "description": "A gorgeous, interactive mobile application features biometric login, workout planners, and real-time step counter syncing mechanisms.",
+    "image": "https://images.unsplash.com/photo-1510051646317-c834a0952d6d?auto=format&fit=crop&w=800&q=80",
+    "category": "Mobile Apps",
+    "technologies": [
+      "React Native",
+      "Expo",
+      "Firebase",
+      "Redux",
+      "Apple Health Kit"
+    ],
+    "client": "PulseFit Corp",
+    "liveDemo": "https://example.com/demo/pulsefit",
+    "github": "https://github.com/example/pulsefit"
+  },
+  {
+    "_id": "85bb68fe-a63b-42e6-8dbb-9717acfe0581",
+    "createdAt": "2026-06-27T09:27:51.230Z",
+    "updatedAt": "2026-06-27T09:27:51.230Z",
+    "title": "Zenith Premium E-Commerce Hub",
+    "description": "A high-converting custom digital storefront featuring full product catalogs, filtering systems, user accounts, and direct payment integrations.",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80",
+    "category": "Web Development",
+    "technologies": [
+      "Next.js",
+      "Stripe",
+      "Node.js",
+      "PostgreSQL",
+      "Framer Motion"
+    ],
+    "client": "Zenith Apparel Group",
+    "liveDemo": "https://example.com/demo/zenith",
+    "github": "https://github.com/example/zenith"
+  },
+  {
+    "_id": "33cf5fe7-b8eb-47d1-8cec-cad084f46829",
+    "createdAt": "2026-06-27T09:27:51.231Z",
+    "updatedAt": "2026-06-27T09:27:51.231Z",
+    "title": "Aether Cloud Scaling Engine",
+    "description": "A cloud virtualization framework offering automatic serverless scaling and centralized load balancer dashboards.",
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+    "category": "UI UX",
+    "technologies": [
+      "AWS CloudFormation",
+      "Kubernetes",
+      "Vue.js",
+      "Node.js"
+    ],
+    "client": "Aether Telecommunications",
+    "liveDemo": "https://example.com/demo/aether",
+    "github": "https://github.com/example/aether"
+  }
+]

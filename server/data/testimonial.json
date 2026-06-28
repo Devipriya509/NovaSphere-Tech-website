@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "fc672fba-d149-4f8d-9e2f-d210be130059",
+    "createdAt": "2026-06-27T09:27:51.243Z",
+    "updatedAt": "2026-06-27T09:27:51.243Z",
+    "name": "Elena Rostova",
+    "role": "VP of Product",
+    "company": "OmniGlobal",
+    "content": "NovaSphere built our analytics suite from the ground up. The design is exceptionally premium and the processing speed surpassed our expectations.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Elena"
+  },
+  {
+    "_id": "a47fedad-09d4-4302-8ffd-a50defa76616",
+    "createdAt": "2026-06-27T09:27:51.246Z",
+    "updatedAt": "2026-06-27T09:27:51.246Z",
+    "name": "Marcus Vance",
+    "role": "Founder",
+    "company": "Zenith Apparel",
+    "content": "The e-commerce site they designed doubled our sales within three months. The smooth animations and glassmorphic checkout UI feel incredibly high-end.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Marcus"
+  },
+  {
+    "_id": "db378cfb-6a85-4418-85ed-32c6a8b9ba83",
+    "createdAt": "2026-06-27T09:27:51.249Z",
+    "updatedAt": "2026-06-27T09:27:51.249Z",
+    "name": "Tariq Al-Fayed",
+    "role": "Director of Technology",
+    "company": "Aegis Security",
+    "content": "Professional, responsive, and secure. Their cloud consulting migrated our sensitive medical systems with absolute zero-downtime.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Tariq"
+  }
+]
