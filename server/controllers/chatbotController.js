@@ -13,6 +13,8 @@ const handleChatMessage = async (req, res, next) => {
     }
 
     const apiKey = process.env.GEMINI_API_KEY;
+    console.log("Gemini Key Loaded:", !!apiKey);
+console.log("Gemini Key:", apiKey ? apiKey.substring(0, 10) + "..." : "NOT FOUND");
 
     // Fallback Mock Assistant response if key is missing or placeholder
     if (!apiKey || apiKey === 'placeholder_gemini_api_key' || apiKey.startsWith('your_')) {
